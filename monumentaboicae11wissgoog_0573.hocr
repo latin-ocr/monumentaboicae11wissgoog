@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentaboicae11wissgoog_0573.png"; bbox 0 0 765 1497; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 585 261 668 341">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 585 261 668 341">
+     <span class='ocr_line' id='line_1_1' title="bbox 587 261 617 282; baseline -0.033 0"><span class='ocrx_word' id='word_1_1' title='bbox 587 261 617 282; x_wconf 80' lang='lat' dir='ltr'><strong>Do</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 585 289 631 311; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 585 289 617 311; x_wconf 77' lang='grc'><strong>80</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 626 290 631 311; x_wconf 88' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 587 319 668 341; baseline 0 -1"><span class='ocrx_word' id='word_1_4' title='bbox 587 319 668 341; x_wconf 72' lang='grc' dir='ltr'>[332Μὸ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 239 685 555 730">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 239 685 555 730">
+     <span class='ocr_line' id='line_1_4' title="bbox 239 685 555 707; baseline -0.003 -3"><span class='ocrx_word' id='word_1_5' title='bbox 239 686 330 704; x_wconf 67' lang='lat' dir='ltr'><strong>Sta-:ford</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 341 686 450 707; x_wconf 71' lang='lat' dir='ltr'>University</span> <span class='ocrx_word' id='word_1_7' title='bbox 461 685 555 704; x_wconf 65' lang='lat' dir='ltr'>Libra-ies</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 294 709 505 730; baseline 0 -3"><span class='ocrx_word' id='word_1_8' title='bbox 294 709 390 730; x_wconf 59' lang='lat' dir='ltr'><strong>sanford,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 401 709 505 727; x_wconf 69' lang='lat' dir='ltr'><strong>Cantor-ui·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 254 808 545 822">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 254 808 545 822">
+     <span class='ocr_line' id='line_1_6' title="bbox 254 808 545 822; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 254 809 304 822; x_wconf 64' lang='lat' dir='ltr'>Renum</span> <span class='ocrx_word' id='word_1_11' title='bbox 310 809 338 822; x_wconf 74' lang='lat' dir='ltr'><strong>thi-</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 344 810 377 822; x_wconf 76' lang='lat' dir='ltr'>book</span> <span class='ocrx_word' id='word_1_13' title='bbox 382 814 399 822; x_wconf 72' lang='lat' dir='ltr'><strong>on</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 405 813 421 822; x_wconf 74' lang='lat' dir='ltr'><strong>or</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 427 809 473 822; x_wconf 68' lang='lat' dir='ltr'>heron</span> <span class='ocrx_word' id='word_1_16' title='bbox 478 808 510 822; x_wconf 65' lang='lat' dir='ltr'><strong>dau</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 515 808 545 822; x_wconf 69' lang='lat' dir='ltr'><strong>dun.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
